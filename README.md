@@ -4,8 +4,8 @@ Yahtzee is a dice game whose objective is to score points by 5 dice to make cert
 
 # Rules
 
-![Toprow-rules]("./public/img/rule1.png")
+![Toprow-rules](rule1.png)
 
-![Bottomrow-rules]("./public/img/rule2.png)
+![Bottomrow-rules](rule2.png)
 
-[ImageSource](https://en.wikipedia.org/wiki/Yahtzee)
+[Image - Source](https://en.wikipedia.org/wiki/Yahtzee)
